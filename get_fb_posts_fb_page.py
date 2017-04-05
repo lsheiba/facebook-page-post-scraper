@@ -4,8 +4,8 @@ import datetime
 import csv
 import time
 
-app_id = "<FILL IN>"
-app_secret = "<FILL IN>" # DO NOT SHARE WITH ANYONE!
+app_id = "1292899107442044"
+app_secret = "602a3e464886f7e00d3cbe45791cfbe7" # DO NOT SHARE WITH ANYONE!
 page_id = "cnn"
 
 access_token = app_id + "|" + app_secret
